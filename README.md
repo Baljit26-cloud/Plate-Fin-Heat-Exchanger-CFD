@@ -248,6 +248,18 @@ Future extensions could include mesh-convergence studies, heat exchanger effecti
 - Numerical Simulation and Post-Processing
 - Velocity, Pressure, and Temperature Field Analysis
 
+- ## COMSOL Simulation Model
+
+The complete COMSOL Multiphysics simulation model
+is available for download:
+
+[Download PFHE COMSOL Model](## COMSOL Simulation Model
+
+The complete COMSOL Multiphysics simulation model
+is available for download:
+
+[Download PFHE COMSOL Model](https://drive.google.com/file/d/1CHRU6igyn0H_SH2PgsMU7xgPelWLOT0S/view?usp=sharing).
+
 ---
 
 ## Author
